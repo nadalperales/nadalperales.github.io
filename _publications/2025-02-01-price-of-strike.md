@@ -4,5 +4,9 @@ collection: publications
 category: work_in_progress
 permalink: /publications/price-of-strike/
 date: 2025-02-01
-authors: "Nadal Perales Oliver, A. Díez-Minguela, A. Gómez-Tello"
+author_links:
+  - name: "A. Díez-Minguela"
+    url: "https://www.diezminguela.es/"
+  - name: "A. Gómez-Tello"
+    url: "https://www.uv.es/agote2/"
 ---
