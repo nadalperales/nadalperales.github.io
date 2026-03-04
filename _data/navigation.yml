@@ -23,8 +23,8 @@ main:
   - title: "CV"
     url: /files/CV2025.pdf
 
-  - title: "Hobbies and other interests"
-     url: /hobbies/
+- title: "Hobbies and other interests"
+    url: /hobbies/
 
   # - title: "CV"
   #   url: /cv-json/
