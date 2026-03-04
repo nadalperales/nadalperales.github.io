@@ -35,8 +35,9 @@
     <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
   {% endif %}
 </h3>
-  {% if post.authors %}<p>{{ post.authors }}</p>{% endif %}
-
+{% if post.author_links %}
+  <p>With {% for author in post.author_links %}<a href="{{ author.url }}">{{ author.name }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+{% endif %}
     
     
     {% if post.read_time %}
