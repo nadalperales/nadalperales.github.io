@@ -24,7 +24,7 @@ main:
     url: /files/CV2025.pdf
 
   - title: "Hobbies and other interests"
-  #   url: /year-archive/
+     url: /hobbies/
 
   # - title: "CV"
   #   url: /cv-json/
