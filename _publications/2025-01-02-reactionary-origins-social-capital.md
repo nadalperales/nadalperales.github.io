@@ -4,7 +4,7 @@ collection: publications
 category: working_papers
 permalink: /publications/reactionary-origins-social-capital/
 date: 2025-01-02
-venue: "Under review at Comparative Politics"
+venue: "Under review at Comparative Political Studies"
 author_links:
   - name: "Ignacio Sánchez-Cuenca"
     url: "https://ignaciosanchezcuenca.wordpress.com/"
