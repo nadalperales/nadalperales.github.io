@@ -4,7 +4,7 @@ collection: publications
 category: working_papers
 permalink: /publications/organized-to-educate/
 date: 2025-01-03
-venue: "Submitted to Comparative Political Studies"
+venue: " "
 authors: "Nadal Perales Oliver"
 excerpt: "Draft available upon request."
 ---
