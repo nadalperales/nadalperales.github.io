@@ -1,10 +1,10 @@
 ---
-title: "How Historical Legacies Depend on Later Development: Evidence from Spain"
+title: "The Legacies of Early Labor Mobilization: Evidence from Spain"
 collection: publications
 category: working_papers
-permalink: /publications/legacies_BJPS/
+permalink: /publications/EJPR_main/
 date: 2025-01-01
-venue: ""
+venue: "Submitted to European Journal of Political Research"
 authors: "Nadal Perales Oliver"
-paperurl: "/files/legacies_BJPS.pdf"
+paperurl: "/files/EJPR_main.pdf"
 ---
