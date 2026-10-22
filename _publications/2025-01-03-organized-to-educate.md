@@ -6,5 +6,5 @@ permalink: /publications/organized-to-educate/
 date: 2025-01-03
 venue: "R&R, Explorations in Economic History"
 authors: "Nadal Perales Oliver"
-excerpt: "Draft available upon request."
+paperurl: 'https://nadalperales.github.io/files/NPO_pencil_EiEH.pdf'
 ---
